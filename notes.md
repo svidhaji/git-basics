@@ -17,3 +17,4 @@
    17  git push -u origin master
    18  git branch
    19  history
+git reset git merge git diff
